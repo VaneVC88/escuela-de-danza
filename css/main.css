@@ -1,0 +1,255 @@
+.escuela{
+	position: relative;
+	top: 30px;
+}
+
+.escuela h1{
+	font-size: 20px;
+	position: relative;
+	left: 550px;
+
+}
+
+.nosotros a{
+	text-decoration: none;
+	color: grey;
+	position: relative;
+	top: 20px;
+}
+
+.nosotros ul{
+	list-style-type: none;
+	padding-top: 34px;
+	margin: 0 -15px 0 0;
+	position: relative;
+	float: right;
+	font-size: 14px;
+	text-transform: uppercase;
+	white-space: nowrap;
+}
+
+.nosotros li{
+	position: relative;
+	float: left;
+	margin: 0;
+	padding: 0;
+	padding-right: 20px;
+	padding-left: 20px;
+}
+
+.banner{
+	width: 1300px;
+	position: relative;
+	top: 30px;
+}
+
+.nosotros1{
+	position: relative;
+	bottom: 400px;
+	left: 50px;
+}
+
+.nosotros1 h1{
+	color: #D9D9D9;
+	font-size: 45px;
+}
+
+.nosotros1 p{
+	color: #919191;
+	position: relative;
+	top: 10px;
+}
+
+.nosotros1 button a{
+	text-decoration: none;
+	color: #919191;
+}
+
+.nosotros1 button{
+	position: relative;
+	top: 40px;
+	left: 30px;
+	padding: 12px;
+	background-color: #02036D;
+	border: #02036D;
+}
+
+.textura{
+	width: 1300px;
+	height: 1600px;
+	position: relative;
+	bottom: 160px;
+}
+
+.julliart p{
+	position: relative;
+	bottom: 1650px;
+	left: 280px;
+	text-align: center;
+	font-size: 20px;
+	color: #484848;
+}
+
+.deco{
+	width: 150px;
+	height: 150px;
+	position: relative;
+	bottom: 1690px;
+	left: 530px;
+}
+
+.julliart button a{
+ 	text-decoration: none;
+ 	color: #A9A9A9;
+ 	font-size: 16px;
+ }
+
+.julliart button{
+	position: relative;
+	bottom: 1700px;
+	left: 480px;
+	padding: 18px 70px;
+	border-radius: 5px;
+	background-color: #13156C;
+	border: #13156C;
+}
+
+.ins{
+	width: 650px;
+	height: 300x;
+	position: relative;
+	bottom: 1600px;
+	left: 10px
+}
+
+.pro{
+	width: 640px;
+	height: 310px;
+	position: relative;
+	bottom: 1600px;
+	left: 97px;
+}
+
+.inspro button a{
+	font-size: 18px;
+	text-decoration: none;
+	color: #A9A9A9;
+}
+
+.inspro button{
+	position: relative;
+	bottom: 1661px;
+	left: 530px;
+	padding: 18px 70px;
+	border-radius: 50x;
+	background-color: #13156C;
+	border: #13156C;
+}
+
+.inspro h1{
+	position: relative;
+	bottom: 1610px;
+	left: 300px;
+	text-align: center;
+	color: #000080;
+}
+
+.bg-azul{
+	background-color: #191970;
+	width: 1289px;
+	height: 400px;
+	position: relative;
+	bottom: 1400px;
+	left: 40px;
+}
+
+.mapa{
+	position: relative;
+	left: 70px;
+	top: 60px;
+}
+
+.inspro p{
+	font-size: 12px;
+	color: #A9A9A9;
+	position: relative;
+	bottom: 230px;
+	left: 80px;
+}
+
+.inspro h2{
+	font-size: 20px;
+	color: white;
+	position: relative;
+	bottom: 210px;
+	left: 80px;
+}
+
+.inspro ul li{
+	list-style-type: none;
+	font-size: 12px;
+	color: #A9A9A9;
+	position: relative;
+	bottom: 200px;
+	left: 80px;
+}
+
+.shoes{
+	width: 1300px;
+	height: 700px;
+	position: relative;
+	bottom: 1410px;
+}
+
+.contact h1{
+	font-size: 35px;
+	color: #000080;
+	position: relative;
+	bottom: 2000px;
+	left: 150px
+}
+
+.contact p{
+	font-size: 12px;
+	color: grey;
+	border: 1px solid grey;
+	margin: 20px;
+	padding: 10px 10px;
+	position: relative;
+	bottom: 2000px;
+	left: 130px;
+}
+
+.contact button a{
+	font-size: 18px;
+	text-decoration: none;
+	color: #A9A9A9;
+}
+
+.contact button{
+	position: relative;
+	bottom: 2000px;
+	left: 150px;
+	padding: 13px 160px;
+	border-radius: 50x;
+	background-color: #13156C;
+	border: #13156C;
+	border-radius: 5px;
+}
+
+.bg-blue{
+	background-color: #13156C;
+	width: 1300px;
+	height: 100px;
+	position: relative;
+	bottom: 1691px;
+	
+}
+
+.bg-blue p{
+	font-size: 13px;
+	color: grey;
+	position: relative;
+	top: 50px;
+	left: 50px;
+}
